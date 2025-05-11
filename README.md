@@ -45,6 +45,9 @@
 ![Home Screen](Screenshots/Home.png)
 *Home Screen showing available groceries.*
 
+![Package](Screenshots/Package.png)
+*View available delivery packages.*
+
 ![Order Tracking](Screenshots/Order.png)
 *Order Tracking screen with map integration.*
 
@@ -53,9 +56,6 @@
 
 ![Order Status](Screenshots/order_status.png)
 *Order status overview.*
-
-![Order Tick](Screenshots/Order_Tick.png)
-*Order confirmation animation.*
 
 ![Admin Login](Screenshots/Admin_login.png)
 *Admin login screen.*
@@ -66,7 +66,7 @@
 ![Manage Order](Screenshots/manage_order.png)
 *Manage and track incoming orders.*
 
-![Package](Screenshots/Package.png)
-*View available delivery packages.*
+![Order Tick](Screenshots/Order_Tick.png)
+*Order confirmation animation.*
 
 
