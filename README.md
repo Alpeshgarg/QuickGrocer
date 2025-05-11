@@ -17,10 +17,10 @@
 
 ## 📸 Screenshots
 
-![Home Screen](assets/screenshots/Home.png)
+![Home Screen](assets/Screenshots/Home.png)
 *Home Screen showing available groceries.*
 
-![Order Tracking](assets/screenshots/Order.png)
+![Order Tracking](Screenshots/Order.png)
 *Order Tracking screen with map integration.*
 
 ---
