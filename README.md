@@ -9,9 +9,7 @@
 - 🛍️ Browse and select grocery items
 - 📦 Place and track orders in real-time
 - 👤 Customer and delivery partner profiles
-- 🗺️ Google Maps integration for delivery tracking
 - 🔔 Push notifications for order updates
-- 💬 In-app chat between customers and delivery agents
 
 ---
 
@@ -19,18 +17,7 @@
 
 - **Flutter** – Cross-platform mobile development
 - **Firebase** – Authentication, Firestore, and Cloud Messaging
-- **Google Maps API** – Route tracking and map views
 - **Provider** – State management
-
----
-
-## 🧑‍💻 Getting Started
-
-### Prerequisites
-
-- Flutter SDK installed
-- A Firebase project set up
-- Google Maps API key
 
 ---
 
