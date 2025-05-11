@@ -1,20 +1,44 @@
-<<<<<<< HEAD
-# packagedeliveryapp
+# QuickGrocery 🛒
 
-A new Flutter project.
+**QuickGrocery** is a Flutter-based grocery delivery app designed to streamline the process of ordering and delivering groceries from local stores. It includes a user-friendly interface for customers and a robust system for managing orders and deliveries.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🛍️ Browse and select grocery items
+- 📦 Place and track orders in real-time
+- 👤 Customer and delivery partner profiles
+- 🗺️ Google Maps integration for delivery tracking
+- 🔔 Push notifications for order updates
+- 💬 In-app chat between customers and delivery agents
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# QuickGrocery
->>>>>>> f581185976b63ec30c317e72e29a07ff64fa8733
+## 📸 Screenshots
+
+![Home Screen](assets/screenshots/Home.png)
+*Home Screen showing available groceries.*
+
+![Order Tracking](assets/screenshots/Order.png)
+*Order Tracking screen with map integration.*
+
+---
+
+## 🚀 Tech Stack
+
+- **Flutter** – Cross-platform mobile development
+- **Firebase** – Authentication, Firestore, and Cloud Messaging
+- **Google Maps API** – Route tracking and map views
+- **Provider** – State management
+
+---
+
+## 🧑‍💻 Getting Started
+
+### Prerequisites
+
+- Flutter SDK installed
+- A Firebase project set up
+- Google Maps API key
+
