@@ -17,11 +17,39 @@
 
 ## 📸 Screenshots
 
-![Home Screen](assets/Screenshots/Home.png)
+![Home Screen](Screenshots/Home.png)
 *Home Screen showing available groceries.*
 
 ![Order Tracking](Screenshots/Order.png)
 *Order Tracking screen with map integration.*
+
+![Admin Login](Screenshots/Admin_login.png)
+*Admin login screen.*
+
+![Create Account](Screenshots/Create_Account.png)
+*New user account creation.*
+
+![Home Admin](Screenshots/Home_admin.png)
+*Admin dashboard.*
+
+![Manage Order](Screenshots/manage_order.png)
+*Manage and track incoming orders.*
+
+![Order Status](Screenshots/order_status.png)
+*Order status overview.*
+
+![Order Tick](Screenshots/Order_Tick.png)
+*Order confirmation animation.*
+
+![Add Package](Screenshots/add_package.png)
+*Add new delivery packages.*
+
+![Package](Screenshots/Package.png)
+*View available delivery packages.*
+
+![Sign In](Screenshots/SignIn.png)
+*Customer sign-in page.*
+
 
 ---
 
