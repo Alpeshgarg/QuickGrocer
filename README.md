@@ -45,9 +45,6 @@
 ![Home Screen](Screenshots/Home.png)
 *Home Screen showing available groceries.*
 
-![Package](Screenshots/Package.png)
-*View available delivery packages.*
-
 ![Order Tracking](Screenshots/Order.png)
 *Order Tracking screen with map integration.*
 
